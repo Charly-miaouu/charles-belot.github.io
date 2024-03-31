@@ -7,13 +7,13 @@ export default function Footer() {
           rel="noopener noreferrer"
         >
           <h2 className={`mb-3 text-2xl font-semibold`}>
-            Home{" "}
+            Acceuil{" "}
             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
               -&gt;
             </span>
           </h2>
           <p className={"m-0 max-w-[30ch] text-sm opacity-50"} style={{color:'#B20D30'}}>
-            Main menu.
+            Menu principal.
           </p>
         </a>
 
@@ -29,7 +29,7 @@ export default function Footer() {
             </span>
           </h2>
           <p className={"m-0 max-w-[30ch] text-sm opacity-50"} style={{color:'#B20D30'}}>
-            Contact information.
+            Comment me contacter.
           </p>
         </a>
 
@@ -39,13 +39,13 @@ export default function Footer() {
           rel="noopener noreferrer"
         >
           <h2 className={`mb-3 text-2xl font-semibold`}>
-            About me{" "}
+            A propos de moi{" "}
             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
               -&gt;
             </span>
           </h2>
           <p className={"m-0 max-w-[30ch] text-sm opacity-50"} style={{color:'#B20D30'}}>
-            Learn about me and my hobbies.
+            Apprennez en plus sur moi.
           </p>
         </a>
       </div>

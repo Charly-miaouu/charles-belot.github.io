@@ -70,8 +70,8 @@ export default function Home() {
           Mes objectifs :
         </h1><br />
         <p className="text-lg opacity-50 text-sm lg:text-left">
-          - Finir un marathon<br />
-          - Finir un Gravelman 350km<br />
+          - Courir un marathon<br />
+          - Finir un Gravelman 350<br />
           - Améliorer mes temps sur toute les distances en course à pied et en vélo<br />
           - Faire un vrai tour de France en vélo<br />
         </p>

@@ -4,16 +4,15 @@ export default function Home() {
   return (
     <main className="flex-col items-center justify-between p-12 bg-gray text-black text-center">
 
-      <div className="mb-32 grid text-center lg:max-w-5xl lg:w-full lg:mb-0 lg:grid-cols-2">
+      <div className="mb-32 grid text-center lg:max-w-5xl lg:w-full lg:mb-0 lg:grid-rows-2">
 
-        <div className="lg:grid-rows-2">
-          <h1 className="text-2xl font-bold lg:text-left">Bonjour, je m'appelle Charles Belot,</h1><br />
-          <p className="text-lg text-m lg:text-left" style={{color:'#90918E'}}>J'ai 19 ans, je suis étudiant en informatique, j'ai des compétences en HTML, CSS, Javascript, C, Python, Java, SQL, Réseau & Cybersécurité.</p>
-          <p className="text-lg text-m lg:text-left" style={{color:'#90918E'}}> Je parle Francais et Anglais (B2).</p>
-          <p className="text-lg text-m lg:text-left" style={{color:'#90918E'}}>Je suis passionné par l'informatique et les nouvelles technologies, je suis rigoureux , autonome et curieux.</p>
+        <div className="text-lg text-m lg:text-left">
+          <h1 className="text-2xl font-bold lg:text-left">Comment me contacter ?</h1><br />
+          <p style={{color:'#90918E'}}>Vous pouvez me contacter par mail à l'adresse suivante : <a href="mailto:xai.charly@gmail.com" className="underline"> xai.charly@gmail.com</a>
+          <p style={{color:'#90918E'}}>Vous pouvez aussi me contacter par téléphone au +33.7.83.88.01.92</p>
+          </p>
         </div>
-
-        <div className="bg-no-repeat bg-contain bg-center bg-[url('/pdp.avif')]">
+        <div>
         </div>
       </div>
 
