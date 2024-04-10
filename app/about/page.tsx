@@ -48,7 +48,7 @@ export default function Home() {
           60 Km : ------ (en cours d'amélioration)<br />
           80 Km : ------ (en cours d'amélioration)<br />
           100 Km : ----- (en cours d'amélioration)<br />
-          Plus long : 112.4 km 5h21' (Paris-Roubaix 145km bientot)<br /><br />
+          Plus long : 112.4 km 5h21'<br /><br />
           *En raison de la préparation du semi-marathon et par manque de temps, je n'ai pas pu m'entraîner correctement pour le vélo. Les vrais temps sont à venir.
         </p>
       </div><br />
@@ -62,7 +62,7 @@ export default function Home() {
           - Vélo : <button className="underline" style={{color:'#337ADE'}}><a href="/velo.jpg">Pinarello Crossista FCX T700</a></button>, Groupe GRX 1x12V<br />
           - Compteur : <button className="underline" style={{color:'#337ADE'}}><a href="https://www.garmin.com/fr-FR/p/621224">Garmin Edge 530</a></button><br />
           - Chaussures de course à pied : <button className="underline" style={{color:'#337ADE'}}><a href="https://www.saucony.com/FR/fr_FR/ride-15-tr/53002M.html">Saucony Ride 15 TR</a></button><br />
-          - Montre de course à pied : <button className="underline" style={{color:'#337ADE'}}><a href="https://www.garmin.com/fr-FR/p/780196/pn/010-02641-30">Garmin Forerunner 255 Music</a></button><br />
+          - Montre de sport : <button className="underline" style={{color:'#337ADE'}}><a href="https://www.garmin.com/fr-FR/p/780196/pn/010-02641-30">Garmin Forerunner 255 Music</a></button><br />
         </p>
         </div>
         <div>
