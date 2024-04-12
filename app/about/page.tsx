@@ -8,7 +8,10 @@ export default function Home() {
         <div>
         <h1 className="text-2xl font-bold lg:text-left underline">Mes Passions :</h1><br /><br />
         <p className="text-lg opacity-50 text-sm lg:text-left">Je suis passionné par le vélo, la course à pied, les sports automobile, le ski. Ce que j'aime dans le sport c'est me lancer des défis pour trouver mes limites.</p><br />
-        <br /><br />
+        <br />
+        <p className="text-lg opacity-50 text-sm lg:text-left">
+        <button className="underline" style={{color:'#337ADE'}}><a href="https://www.strava.com/athletes/122848836">Cliquer ici pour voir mon strava</a></button>
+        </p>
         <p className="text-lg opacity-50 text-sm lg:text-left">Plus d'infos en dessous</p>
         </div>
         <div className="bg-no-repeat bg-contain bg-center bg-[url('/semi.jpg')]">
